@@ -19,6 +19,7 @@ public class array4 {
         System.out.println("the name is not found");
       }
     }
+    sc.close();
   }
   
   
