@@ -10,5 +10,6 @@ public class array7{
     System.out.println(Arrays.toString(arr));
     arr[1]="haasini";
     System.out.println(Arrays.toString(arr));
+    sc.close();
   }
 }

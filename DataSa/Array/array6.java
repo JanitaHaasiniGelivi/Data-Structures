@@ -14,7 +14,7 @@ public class array6 {
     }
     System.out.println(mat);
 
-
+    sc.close();
   }
   
 }

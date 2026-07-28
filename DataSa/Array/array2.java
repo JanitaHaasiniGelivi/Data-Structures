@@ -19,7 +19,7 @@ public class array2 {
     System.out.println("the sum of the number is:"+sum);
     avg=sum/marks.length;
     System.out.println("the average of the number is:"+avg);
-
+    sc.close();
   }
   
 }

@@ -30,5 +30,6 @@ public class DArray{
        for(int[] arr1:numbers){
         System.out.println(Arrays.toString(arr1));
        }
+       sc.close();
   }
 }

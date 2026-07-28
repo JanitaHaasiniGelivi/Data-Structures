@@ -13,7 +13,7 @@ public class array1 {
       System.out.println(numbers[i]+" ");
     }
 
-
+    sc.close();
   
   }
 }

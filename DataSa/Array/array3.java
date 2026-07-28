@@ -27,7 +27,7 @@ public class array3 {
     }
     System.out.println();
   }
-
+    sc.close();
   }
   
   

@@ -25,6 +25,7 @@ public class array5{
     }
     System.out.println("Maximum number is: "+max);
     System.out.println("minimum number is: "+min);
+    sc.close();
 
   }
 }
