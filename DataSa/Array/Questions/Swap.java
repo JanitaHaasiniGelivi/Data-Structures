@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Swap {
+public class Swap {
     public static void main(String[] args) {
         int[] arr = {1, 3, 23, 45, 56, 66};
 
