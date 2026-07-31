@@ -1,3 +1,4 @@
+package Leetcode.Array;
 public class FindtheHighestAltitude {
   public static void main(String[] args) {
     int[]gain={-5,1,5,0,-7};
